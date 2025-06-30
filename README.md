@@ -24,7 +24,7 @@ npm install
 
 3. **Configurar variables de entorno:**
 
-Crear un archivo .env en la raíz del proyecto con las siguientes variables:
+Crear un archivo .env.local en la raíz del proyecto con las siguientes variables:
 
 VITE_S3_ACCESS_KEY=AKIAX74AW34BFOHWHQFJ
 
